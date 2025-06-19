@@ -52,8 +52,8 @@ OSRM API (Open Source Routing Machine)
 ---
 
 ## 🛠 Developer Tools
-IntelliJ IDEA (for development)
-Postman (for API testing)
+IntelliJ IDEA (for development), 
+Postman (for API testing),
 Swagger (for API documentation)
 
 ---
