@@ -93,34 +93,34 @@ uberApp/
 ## 📸 Screenshots
 
 ### 1. Swagger UI - Rider Controllers
-![Swagger Auth](./swaggerUi/uber1.png)
+![Swagger Auth](./swagger/uber1.png)
 
 ### 2. Swagger UI - Ride Request Body
-![Swagger Driver](./swaggerUi/uber2(ride request Body).png)
+![Swagger Driver](./swagger/uber2.png)
 
 ### 3. Swagger UI - Ride Response Body
-![Swagger Rider](./swagger Ui/uber3(rideRequest response).png)
+![Swagger Rider](./swagger/uber3.png)
 
 ### 4. Swagger UI - Driver and Auth Controllers
-![Swagger Ride](./swagger Ui/uber4.png)
+![Swagger Ride](./swagger/uber4.png)
 
 ### 5. Swagger UI - schemas
-![Swagger Admin](./swagger Ui/uber5.png)
+![Swagger Admin](./swagger/uber5.png)
 
 ### 6. Swagger UI - schemas
-![Swagger Error](./swagger Ui/uber6.png)
+![Swagger Error](./swagger/uber6.png)
 
 ---
 
 ## 📊 UML Class Diagram
 
-![UML Diagram](./screenshots/uml.png)
+![UML Diagram](./swagger/uml.png)
 
 ---
 
 ## 🔁 Flow Diagram
 
-![Flow Diagram](./screenshots/flow.png)
+![Flow Diagram](./swagger/flow.png)
 
 ---
 
