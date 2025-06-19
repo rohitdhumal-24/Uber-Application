@@ -93,10 +93,10 @@ uberApp/
 ## 📸 Screenshots
 
 ### 1. Swagger UI - Rider Controllers
-![Swagger Auth](./swagger Ui/uber1.png)
+![Swagger Auth](./swaggerUi/uber1.png)
 
 ### 2. Swagger UI - Ride Request Body
-![Swagger Driver](./swagger Ui/uber2(ride request Body).png)
+![Swagger Driver](./swaggerUi/uber2(ride request Body).png)
 
 ### 3. Swagger UI - Ride Response Body
 ![Swagger Rider](./swagger Ui/uber3(rideRequest response).png)
