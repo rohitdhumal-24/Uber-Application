@@ -92,22 +92,22 @@ uberApp/
 
 ## 📸 Screenshots
 
-### 1. Swagger UI - Auth Controller
+### 1. Swagger UI - Rider Controllers
 ![Swagger Auth](./screenshots/swagger1.png)
 
-### 2. Swagger UI - Driver Controller
+### 2. Swagger UI - Ride Request Body
 ![Swagger Driver](./screenshots/swagger2.png)
 
-### 3. Swagger UI - Rider Controller
+### 3. Swagger UI - Ride Response Body
 ![Swagger Rider](./screenshots/swagger3.png)
 
-### 4. Swagger UI - Ride Booking Endpoint
+### 4. Swagger UI - Driver and Auth Controllers
 ![Swagger Ride](./screenshots/swagger4.png)
 
-### 5. Swagger UI - Admin APIs
+### 5. Swagger UI - schemas
 ![Swagger Admin](./screenshots/swagger5.png)
 
-### 6. Swagger UI - Exception Handling Example
+### 6. Swagger UI - schemas
 ![Swagger Error](./screenshots/swagger6.png)
 
 ---
