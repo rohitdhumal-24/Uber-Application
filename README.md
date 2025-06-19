@@ -45,6 +45,19 @@ A backend application developed using **Spring Boot**, simulating key functional
 
 ---
 
+## 🌍 External APIs
+OSRM API (Open Source Routing Machine)
+→ Used to calculate distance and estimated time between source and destination coordinates for each ride.
+
+---
+
+## 🛠 Developer Tools
+IntelliJ IDEA (for development)
+Postman (for API testing)
+Swagger (for API documentation)
+
+---
+
 ## 📫 API Endpoints (via Swagger)
 
 | Method | Endpoint | Description |
